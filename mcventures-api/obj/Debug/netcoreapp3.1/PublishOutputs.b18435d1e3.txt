@@ -1,0 +1,6 @@
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/appsettings.Development.json
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/appsettings.json
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/mcventures-api.dll
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/mcventures-api.deps.json
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/mcventures-api.runtimeconfig.json
+/Users/dacruma1/Projects/mcventures/mcventures-api/bin/Debug/netcoreapp3.1/publish/mcventures-api.pdb

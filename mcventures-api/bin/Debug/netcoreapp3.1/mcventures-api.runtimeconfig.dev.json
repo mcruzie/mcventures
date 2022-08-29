@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dacruma1/.dotnet/store/|arch|/|tfm|",
+      "/Users/dacruma1/.nuget/packages"
+    ]
+  }
+}
